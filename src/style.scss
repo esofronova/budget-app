@@ -1,0 +1,21 @@
+.budget-app {
+  .balance {
+     .col-4 {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        align-items: center;
+     }
+
+     h3 {
+        margin: 0;
+        font-weight: bold;
+     }
+
+     i {
+        color: steelblue;
+        font-size: 2.6em;
+        font-style: normal;
+     }
+  }
+}
